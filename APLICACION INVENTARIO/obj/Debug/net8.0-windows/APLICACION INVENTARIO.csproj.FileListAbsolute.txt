@@ -1,0 +1,30 @@
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\bin\Debug\net8.0-windows\APLICACION INVENTARIO.exe
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\bin\Debug\net8.0-windows\APLICACION INVENTARIO.deps.json
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\bin\Debug\net8.0-windows\APLICACION INVENTARIO.runtimeconfig.json
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\bin\Debug\net8.0-windows\APLICACION INVENTARIO.dll
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\bin\Debug\net8.0-windows\APLICACION INVENTARIO.pdb
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO.g.resources
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO.dll
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\refint\APLICACION INVENTARIO.dll
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO.pdb
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\APLICACION INVENTARIO.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\ref\APLICACION INVENTARIO.dll
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\AgregarItemsUC.g.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\AgregarItemsUC.baml
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\EliminarItemUC.g.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\EliminarItemUC.baml
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\ConsultarItemsUC.g.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\MermaItemsUC.g.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\ConsultarItemsUC.baml
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\MermaItemsUC.baml
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\RelacionarPreciosUC.g.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\UserControls\RelacionarPreciosUC.baml

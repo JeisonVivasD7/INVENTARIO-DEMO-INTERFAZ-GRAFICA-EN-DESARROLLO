@@ -1,0 +1,20 @@
+﻿APLICACION INVENTARIO
+
+
+winexe
+C#
+.cs
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\obj\Debug\net8.0-windows\
+APLICACION_INVENTARIO
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\USUARIO\source\repos\APLICACION INVENTARIO\APLICACION INVENTARIO\App.xaml
+6-1529296097
+
+91168813479
+198915248976
+MainWindow.xaml;UserControls\AgregarItemsUC.xaml;UserControls\ConsultarItemsUC.xaml;UserControls\EliminarItemUC.xaml;UserControls\MermaItemsUC.xaml;UserControls\RelacionarPreciosUC.xaml;
+
+False
+

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>APLICACION_INVENTARIO</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fondo Simple.jpg" />
+    <None Remove="fondo-papel-tapiz-colores-vividos-borrosos_58702-3767.avif" />
+    <None Remove="photo-1557683325-3ba8f0df79de.jpeg" />
+    <None Remove="textura-blanca-71k5ahsyqvpxk5ah.jpg" />
+    <None Remove="UserControls\fondo-papel-tapiz-colores-vividos-borrosos_58702-3767.avif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fondo Simple.jpg" />
+    <Resource Include="fondo-papel-tapiz-colores-vividos-borrosos_58702-3767.avif" />
+    <Resource Include="photo-1557683325-3ba8f0df79de.jpeg" />
+    <Resource Include="textura-blanca-71k5ahsyqvpxk5ah.jpg" />
+    <Resource Include="UserControls\fondo-papel-tapiz-colores-vividos-borrosos_58702-3767.avif" />
+  </ItemGroup>
+
+</Project>

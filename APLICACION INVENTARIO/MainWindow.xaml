@@ -1,0 +1,44 @@
+﻿<Window x:Class="APLICACION_INVENTARIO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"   
+         xmlns:UserControls="clr-namespace:APLICACION_INVENTARIO.UserControls"
+        mc:Ignorable="d"
+        Title="JD Stock" Height="450" Width="800">
+    <Grid Grid.IsSharedSizeScope="False">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="101*"/>
+            <ColumnDefinition Width="299*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <SolidColorBrush Color="White" Opacity="0.8"/>
+        </Grid.Background>
+
+        <StackPanel>
+            <Grid Height="434" Width="204" Background="#FF424040">
+                <Button x:Name="AgregarItems" Content="Agregar Items" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Franklin Gothic Medium" FontSize="16" Margin="0,44,0,0" FontWeight="Bold" Height="28" Width="184" HorizontalAlignment="Center" FontStyle="Italic" Foreground="#FFFCFCFC" UseLayoutRounding="False" Grid.IsSharedSizeScope="False" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Click="AgregarItems_Click"/>
+                <Button x:Name="EliminarItems" Content="Eliminar Items" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Franklin Gothic Medium" FontSize="16" Margin="0,77,0,0" FontWeight="Bold" Height="28" Width="184" HorizontalAlignment="Center" FontStyle="Italic" Foreground="#FFFCFCFC" UseLayoutRounding="False" Grid.IsSharedSizeScope="False" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Click="EliminarItems_Click"/>
+                <Button x:Name="ConsultarItems" Content="Consultar Items" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Franklin Gothic Medium" FontSize="16" Margin="0,108,0,0" FontWeight="Bold" Height="28" Width="184" HorizontalAlignment="Center" FontStyle="Italic" Foreground="#FFFCFCFC" UseLayoutRounding="False" Grid.IsSharedSizeScope="False" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Click="ConsultarItems_Click"/>
+                <Button x:Name="MermaItems" Content="Merma Items" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Franklin Gothic Medium" FontSize="16" Margin="0,140,0,0" FontWeight="Bold" Height="28" Width="184" HorizontalAlignment="Center" FontStyle="Italic" Foreground="#FFFCFCFC" UseLayoutRounding="False" Grid.IsSharedSizeScope="False" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Click="MermaItems_Click"/>
+                <Button x:Name="RelacionarPrecios" Content="Relacionar precios" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Franklin Gothic Medium" FontSize="16" Margin="0,173,0,0" FontWeight="Bold" Height="28" Width="184" HorizontalAlignment="Center" Foreground="#FFFCFCFC" UseLayoutRounding="False" Grid.IsSharedSizeScope="False" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Click="RelacionarPrecios_Click" FontStyle="Italic"/>
+                <Label Content="Gestión Inventario" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontFamily="Franklin Gothic Medium" FontSize="22" FontWeight="Bold" Height="44" Width="200" HorizontalAlignment="Left" FontStyle="Italic" Foreground="#FFFCFCFC" Margin="-6,0,0,0"/>
+            </Grid>
+
+        </StackPanel>
+
+
+        <Grid x:Name="CambioMenu" Grid.Column="1" HorizontalAlignment="Center" Height="434" VerticalAlignment="Center" Width="598">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Fondo Simple.jpg"/>
+            </Grid.Background>
+            <Grid.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF2B2B2B" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.OpacityMask>
+        </Grid>
+
+    </Grid>
+</Window>
